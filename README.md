@@ -54,7 +54,7 @@ Une fois le déploiement terminé avec la commande \agrant up\, voici les point
 ### 2. Installation Automatisée
 Ouvrez votre terminal dans ce dossier et lancez la commande suivante :
 
-\\\ash
+\\\Bash
 vagrant up
 \\\
 
