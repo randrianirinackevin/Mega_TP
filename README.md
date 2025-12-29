@@ -95,5 +95,4 @@ TP-Infrastructure-HA
 \\\
 
 ---
-**Date de rendu :** 30 Décembre
-**Statut :** Projet fonctionnel et validé
+
